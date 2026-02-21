@@ -28,9 +28,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0069-sqrtx) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
