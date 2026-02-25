@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0761-special-binary-string](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0761-special-binary-string) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Bala-ks/Leetcode_prblms/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0868-binary-gap) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Bala-ks/Leetcode_prblms/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Binary Search
 |  |
 | ------- |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0035-search-insert-position) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Bala-ks/Leetcode_prblms/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Linked List
 |  |
 | ------- |
@@ -73,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Bala-ks/Leetcode_prblms/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+## Counting
+|  |
+| ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Bala-ks/Leetcode_prblms/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 <!---LeetCode Topics End-->
