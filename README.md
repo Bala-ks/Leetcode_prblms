@@ -83,16 +83,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0101-symmetric-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Bala-ks/Leetcode_prblms/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0101-symmetric-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Bala-ks/Leetcode_prblms/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0101-symmetric-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Bala-ks/Leetcode_prblms/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Counting
 |  |
@@ -111,4 +114,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
