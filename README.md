@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0035-search-insert-position) |
 | [0118-pascals-triangle](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0119-pascals-triangle-ii) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Bala-ks/Leetcode_prblms/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Linked List
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0010-regular-expression-matching) |
 | [0070-climbing-stairs](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0119-pascals-triangle-ii) |
 ## Tree
 |  |
 | ------- |
