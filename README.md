@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0058-length-of-last-word) |
 | [0761-special-binary-string](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0761-special-binary-string) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Bala-ks/Leetcode_prblms/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Bala-ks/Leetcode_prblms/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -126,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0094-binary-tree-inorder-traversal) |
+## Greedy
+|  |
+| ------- |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Bala-ks/Leetcode_prblms/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 <!---LeetCode Topics End-->
