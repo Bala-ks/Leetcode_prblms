@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0136-single-number) |
 | [0342-power-of-four](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0342-power-of-four) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0868-binary-gap) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0119-pascals-triangle-ii) |
+| [0136-single-number](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0136-single-number) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Bala-ks/Leetcode_prblms/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Linked List
 |  |
