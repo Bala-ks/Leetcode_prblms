@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0012-integer-to-roman) |
+| [0050-powx-n](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0070-climbing-stairs) |
 | [0342-power-of-four](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0342-power-of-four) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0050-powx-n) |
 | [0342-power-of-four](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0342-power-of-four) |
 ## Dynamic Programming
 |  |
