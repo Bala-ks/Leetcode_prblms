@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0012-integer-to-roman) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0065-valid-number) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0012-integer-to-roman) |
 | [0069-sqrtx](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0070-climbing-stairs) |
 | [0342-power-of-four](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0342-power-of-four) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0012-integer-to-roman) |
 | [0141-linked-list-cycle](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0217-contains-duplicate) |
 ## Matrix
