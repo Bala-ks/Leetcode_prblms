@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0342-power-of-four) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0868-binary-gap) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0338-counting-bits) |
 ## Tree
 |  |
 | ------- |
