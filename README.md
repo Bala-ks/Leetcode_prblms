@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0065-valid-number) |
 | [0125-valid-palindrome](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0412-fizz-buzz) |
 | [0761-special-binary-string](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0761-special-binary-string) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0012-integer-to-roman) |
 | [0141-linked-list-cycle](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0141-linked-list-cycle) |
+| [0205-isomorphic-strings](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0217-contains-duplicate) |
 ## Matrix
 |  |
