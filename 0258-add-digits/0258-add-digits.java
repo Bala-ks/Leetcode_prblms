@@ -1,10 +1,9 @@
 class Solution {
     public int addDigits(int num) {
-        int res = num;
-        while(res > 9 ){
-            res = finddigitsum(res);
+        while(num > 9 ){
+            num = finddigitsum(num);
         }
-        return res;
+        return num;
     }
     public int finddigitsum(int n){
         int temp=0;
