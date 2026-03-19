@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/Bala-ks/Leetcode_prblms/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0344-reverse-string) |
 ## String Matching
 | Problem Name | Difficulty |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Bala-ks/Leetcode_prblms/tree/main/0268-missing-number/) | Easy |
+| [0283-move-zeroes](https://github.com/Bala-ks/Leetcode_prblms/tree/main/0283-move-zeroes/) | Easy |
 | [0525-contiguous-array](https://github.com/Bala-ks/Leetcode_prblms/tree/main/0525-contiguous-array/) | Medium |
 | [0896-monotonic-array](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0896-monotonic-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Bala-ks/Leetcode_prblms/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
