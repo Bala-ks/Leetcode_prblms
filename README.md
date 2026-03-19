@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Bala-ks/Leetcode_prblms/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Bala-ks/Leetcode_prblms/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0412-fizz-buzz) |
 | [0761-special-binary-string](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0761-special-binary-string) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Bala-ks/Leetcode_prblms/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Bala-ks/Leetcode_prblms/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Bala-ks/Leetcode_prblms/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
