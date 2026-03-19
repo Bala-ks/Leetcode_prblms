@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Bala-ks/Leetcode_prblms/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Bala-ks/Leetcode_prblms/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0389-find-the-difference](https://github.com/Bala-ks/Leetcode_prblms/tree/main/0389-find-the-difference/) | Easy |
 | [0412-fizz-buzz](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Bala-ks/Leetcode_prblms/tree/main/0415-add-strings/) | Easy |
 | [0761-special-binary-string](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0761-special-binary-string) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Bala-ks/Leetcode_prblms/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Bala-ks/Leetcode_prblms/tree/main/0268-missing-number/) | Easy |
+| [0389-find-the-difference](https://github.com/Bala-ks/Leetcode_prblms/tree/main/0389-find-the-difference/) | Easy |
 | [0761-special-binary-string](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0761-special-binary-string) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Bala-ks/Leetcode_prblms/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Two Pointers
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Bala-ks/Leetcode_prblms/tree/main/0268-missing-number/) | Easy |
 | [0338-counting-bits](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/Bala-ks/Leetcode_prblms/tree/main/0389-find-the-difference/) | Easy |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0868-binary-gap) |
 | [1009-complement-of-base-10-integer](https://github.com/Bala-ks/Leetcode_prblms/tree/master/1009-complement-of-base-10-integer) |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Bala-ks/Leetcode_prblms/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Bala-ks/Leetcode_prblms/tree/main/0268-missing-number/) | Easy |
+| [0389-find-the-difference](https://github.com/Bala-ks/Leetcode_prblms/tree/main/0389-find-the-difference/) | Easy |
 | [0525-contiguous-array](https://github.com/Bala-ks/Leetcode_prblms/tree/main/0525-contiguous-array/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
