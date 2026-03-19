@@ -4,8 +4,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0014-longest-common-prefix) |
@@ -20,22 +20,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Bala-ks/Leetcode_prblms/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Bala-ks/Leetcode_prblms/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0191-number-of-1-bits](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0191-number-of-1-bits) |
 | [0761-special-binary-string](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0761-special-binary-string) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0075-sort-colors](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0217-contains-duplicate) |
 | [0761-special-binary-string](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0761-special-binary-string) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Bala-ks/Leetcode_prblms/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0061-rotate-list) |
@@ -46,12 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0344-reverse-string) |
 ## String Matching
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0012-integer-to-roman](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0069-sqrtx) |
@@ -64,8 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Bala-ks/Leetcode_prblms/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0136-single-number](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0338-counting-bits) |
@@ -77,14 +77,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Bala-ks/Leetcode_prblms/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Bala-ks/Leetcode_prblms/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0035-search-insert-position](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0278-first-bad-version) |
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0035-search-insert-position) |
@@ -97,27 +97,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0217-contains-duplicate) |
+| [0525-contiguous-array](https://github.com/Bala-ks/Leetcode_prblms/tree/main/0525-contiguous-array/) | Medium |
 | [0896-monotonic-array](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0896-monotonic-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Bala-ks/Leetcode_prblms/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Bala-ks/Leetcode_prblms/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0141-linked-list-cycle) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0342-power-of-four) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0010-regular-expression-matching) |
 | [0070-climbing-stairs](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0118-pascals-triangle) |
@@ -125,8 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0338-counting-bits) |
 ## Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0100-same-tree) |
@@ -137,8 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0145-binary-tree-postorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Bala-ks/Leetcode_prblms/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0100-same-tree) |
@@ -148,8 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0145-binary-tree-postorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Bala-ks/Leetcode_prblms/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0100-same-tree) |
@@ -160,67 +161,72 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0145-binary-tree-postorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Bala-ks/Leetcode_prblms/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Bala-ks/Leetcode_prblms/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0258-add-digits](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0412-fizz-buzz) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Bala-ks/Leetcode_prblms/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Bala-ks/Leetcode_prblms/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Memoization
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0070-climbing-stairs) |
 ## Breadth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0100-same-tree](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0145-binary-tree-postorder-traversal) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Bala-ks/Leetcode_prblms/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0012-integer-to-roman](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0012-integer-to-roman) |
 | [0141-linked-list-cycle](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0217-contains-duplicate) |
+| [0525-contiguous-array](https://github.com/Bala-ks/Leetcode_prblms/tree/main/0525-contiguous-array/) | Medium |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Bala-ks/Leetcode_prblms/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Trie
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0014-longest-common-prefix) |
 ## Binary Search Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Backtracking
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0046-permutations](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0046-permutations) |
 ## Number Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0258-add-digits](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0258-add-digits) |
 ## Interactive
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0278-first-bad-version](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0278-first-bad-version) |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0525-contiguous-array](https://github.com/Bala-ks/Leetcode_prblms/tree/main/0525-contiguous-array/) | Medium |
 <!---LeetCode Topics End-->
