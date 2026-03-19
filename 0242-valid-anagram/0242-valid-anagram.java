@@ -10,6 +10,6 @@ class Solution {
             sm.put(t1,sm.getOrDefault(t1,0)+1);
             tm.put(t2,tm.getOrDefault(t2,0)+1);
         }
-        return (sm.equals(tm))  ?  true :  false;
+        return sm.equals(tm)
     }
 }
