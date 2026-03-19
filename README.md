@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Bala-ks/Leetcode_prblms/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/Bala-ks/Leetcode_prblms/tree/main/0268-missing-number/) | Easy |
 | [0761-special-binary-string](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0761-special-binary-string) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Bala-ks/Leetcode_prblms/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Two Pointers
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/Bala-ks/Leetcode_prblms/tree/main/0268-missing-number/) | Easy |
 | [0326-power-of-three](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0412-fizz-buzz) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0136-single-number](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/Bala-ks/Leetcode_prblms/tree/main/0268-missing-number/) | Easy |
 | [0338-counting-bits](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0342-power-of-four) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/Bala-ks/Leetcode_prblms/tree/main/0268-missing-number/) | Easy |
 | [0278-first-bad-version](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0278-first-bad-version) |
 ## Array
 | Problem Name | Difficulty |
@@ -99,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Bala-ks/Leetcode_prblms/tree/main/0268-missing-number/) | Easy |
 | [0525-contiguous-array](https://github.com/Bala-ks/Leetcode_prblms/tree/main/0525-contiguous-array/) | Medium |
 | [0896-monotonic-array](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0896-monotonic-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Bala-ks/Leetcode_prblms/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -203,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Bala-ks/Leetcode_prblms/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/Bala-ks/Leetcode_prblms/tree/main/0268-missing-number/) | Easy |
 | [0525-contiguous-array](https://github.com/Bala-ks/Leetcode_prblms/tree/main/0525-contiguous-array/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
