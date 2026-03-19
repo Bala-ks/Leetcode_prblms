@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Bala-ks/Leetcode_prblms/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Bala-ks/Leetcode_prblms/tree/main/0415-add-strings/) | Easy |
 | [0761-special-binary-string](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0761-special-binary-string) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Bala-ks/Leetcode_prblms/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Bala-ks/Leetcode_prblms/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Bala-ks/Leetcode_prblms/tree/main/0415-add-strings/) | Easy |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Bala-ks/Leetcode_prblms/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Bit Manipulation
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0258-add-digits](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Bala-ks/Leetcode_prblms/tree/main/0415-add-strings/) | Easy |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Bala-ks/Leetcode_prblms/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Bala-ks/Leetcode_prblms/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Memoization
