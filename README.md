@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Bala-ks/Leetcode_prblms/tree/main/0415-add-strings/) | Easy |
+| [0441-arranging-coins](https://github.com/Bala-ks/Leetcode_prblms/tree/main/0441-arranging-coins/) | Easy |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Bala-ks/Leetcode_prblms/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Bit Manipulation
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Bala-ks/Leetcode_prblms/tree/main/0268-missing-number/) | Easy |
 | [0278-first-bad-version](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0278-first-bad-version) |
+| [0441-arranging-coins](https://github.com/Bala-ks/Leetcode_prblms/tree/main/0441-arranging-coins/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
