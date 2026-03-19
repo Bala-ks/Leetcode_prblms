@@ -1,9 +1,5 @@
 class Solution {
     public int arrangeCoins(int n) {
-        int i = 1;
-        while(n-i >= 0){
-            n-=i++;
-        }
-        return i-1;
+        return (int)(Math.sqrt(2L * n + 0.25) - 0.5);
     }
 }
