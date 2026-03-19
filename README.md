@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0065-valid-number) |
 | [0125-valid-palindrome](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Bala-ks/Leetcode_prblms/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0412-fizz-buzz) |
 | [0761-special-binary-string](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0761-special-binary-string) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Bala-ks/Leetcode_prblms/tree/main/0242-valid-anagram/) | Easy |
 | [0761-special-binary-string](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0761-special-binary-string) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Bala-ks/Leetcode_prblms/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Two Pointers
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Bala-ks/Leetcode_prblms/tree/main/0242-valid-anagram/) | Easy |
 | [0525-contiguous-array](https://github.com/Bala-ks/Leetcode_prblms/tree/main/0525-contiguous-array/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
