@@ -3,7 +3,9 @@ class Solution {
        int n = s.length();
        if(n != t.length())  return false;
 
-        return (Array.sort(s.toCharArray())).equals(Array.sort(t.toCharArray()));
-
+       char[] a = s.toCharArray(), b = t.toCharArray();
+        Arrays.sort(a);
+        Arrays.sort(b);
+        return Arrays.equals(a, b);
     }
 }
