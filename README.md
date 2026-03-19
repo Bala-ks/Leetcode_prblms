@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Bala-ks/Leetcode_prblms/tree/main/0268-missing-number/) | Easy |
+| [0292-nim-game](https://github.com/Bala-ks/Leetcode_prblms/tree/main/0292-nim-game/) | Easy |
 | [0326-power-of-three](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0412-fizz-buzz) |
@@ -249,4 +250,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Bala-ks/Leetcode_prblms/tree/main/0232-implement-queue-using-stacks/) | Easy |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/Bala-ks/Leetcode_prblms/tree/main/0292-nim-game/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/Bala-ks/Leetcode_prblms/tree/main/0292-nim-game/) | Easy |
 <!---LeetCode Topics End-->
