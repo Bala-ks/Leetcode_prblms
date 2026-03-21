@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Bala-ks/Leetcode_prblms/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Bala-ks/Leetcode_prblms/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [3643-flip-square-submatrix-vertically](https://github.com/Bala-ks/Leetcode_prblms/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0896-monotonic-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Bala-ks/Leetcode_prblms/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Bala-ks/Leetcode_prblms/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [3643-flip-square-submatrix-vertically](https://github.com/Bala-ks/Leetcode_prblms/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Bala-ks/Leetcode_prblms/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [3643-flip-square-submatrix-vertically](https://github.com/Bala-ks/Leetcode_prblms/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
