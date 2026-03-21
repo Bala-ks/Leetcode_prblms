@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/Bala-ks/Leetcode_prblms/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Bala-ks/Leetcode_prblms/tree/main/0268-missing-number/) | Easy |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0046-permutations) |
 | [0075-sort-colors](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Bala-ks/Leetcode_prblms/tree/main/0078-subsets/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0118-pascals-triangle) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0046-permutations](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/Bala-ks/Leetcode_prblms/tree/main/0078-subsets/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
