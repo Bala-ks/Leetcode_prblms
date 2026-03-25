@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Bala-ks/Leetcode_prblms/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/Bala-ks/Leetcode_prblms/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0046-permutations) |
 | [0075-sort-colors](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Bala-ks/Leetcode_prblms/tree/main/0078-subsets/) | Medium |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0039-combination-sum](https://github.com/Bala-ks/Leetcode_prblms/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Bala-ks/Leetcode_prblms/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Bala-ks/Leetcode_prblms/tree/main/0090-subsets-ii/) | Medium |
