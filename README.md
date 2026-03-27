@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Bala-ks/Leetcode_prblms/tree/main/0441-arranging-coins/) | Easy |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Bala-ks/Leetcode_prblms/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Bala-ks/Leetcode_prblms/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0896-monotonic-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Bala-ks/Leetcode_prblms/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Bala-ks/Leetcode_prblms/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Bala-ks/Leetcode_prblms/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/Bala-ks/Leetcode_prblms/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Bala-ks/Leetcode_prblms/tree/main/0415-add-strings/) | Easy |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Bala-ks/Leetcode_prblms/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Bala-ks/Leetcode_prblms/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Bala-ks/Leetcode_prblms/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Bala-ks/Leetcode_prblms/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Bala-ks/Leetcode_prblms/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/Bala-ks/Leetcode_prblms/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
