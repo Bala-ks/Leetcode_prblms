@@ -13,20 +13,20 @@ class Solution {
 
         ArrayList<Integer> ele = new ArrayList<>();
         ListNode temp = head;
-        int n = 0;
+        int n = 0,i=0;
         while(temp != null){
             ele.add(temp.val);
             n++;
             temp = temp.next;
         }
         temp = head;
-        int k = n-1,i=0;
+         n--;
         
         while(temp != null){
             temp.val = ele.get(i++);
             if(temp.next != null){
                 temp = temp.next;
-                temp.val = ele.get(k--);
+                temp.val = ele.get(n--);
             }
             else break;
             temp = temp.next;
