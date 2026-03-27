@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/Bala-ks/Leetcode_prblms/tree/main/0143-reorder-list/) | Medium |
 | [0202-happy-number](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Bala-ks/Leetcode_prblms/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0344-reverse-string) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/Bala-ks/Leetcode_prblms/tree/main/0143-reorder-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Bala-ks/Leetcode_prblms/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0050-powx-n](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0050-powx-n) |
+| [0143-reorder-list](https://github.com/Bala-ks/Leetcode_prblms/tree/main/0143-reorder-list/) | Medium |
 | [0326-power-of-three](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0342-power-of-four) |
 ## Dynamic Programming
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/Bala-ks/Leetcode_prblms/tree/main/0143-reorder-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Bala-ks/Leetcode_prblms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/Bala-ks/Leetcode_prblms/tree/main/0232-implement-queue-using-stacks/) | Easy |
