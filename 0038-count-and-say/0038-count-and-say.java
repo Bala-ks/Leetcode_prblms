@@ -1,6 +1,6 @@
 class Solution {
     public String countAndSay(int n) {
-
+        if(n == 1)  return "1";
         StringBuilder res = new StringBuilder();
         res.append("1");
         char curr = res.charAt(0);
@@ -25,7 +25,6 @@ class Solution {
             t2.append(t3);
             i += count-1;
         }
-    //    System.out.println(t2);
         return t2;
     }
 }
